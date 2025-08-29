@@ -3,7 +3,5 @@
 # Contains sensitive login data
 *.txt
 
-# Contains dependencies as well as dev dependencies
-*package.json
-*package-lock.json
+# Node modules
 *node_modules/
